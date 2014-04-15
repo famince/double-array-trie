@@ -1,3 +1,5 @@
+修改double_array_trie.txt 后缀为cpp。
+
 1、首先insert  needle.txt;
 2、可以delete delete.txt
 3、可以search needle.txt
